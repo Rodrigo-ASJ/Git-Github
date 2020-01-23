@@ -1,1 +1,1 @@
- texto para que se modifique
+ Se ha añadido un nuevo texto en el documento
